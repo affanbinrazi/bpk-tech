@@ -13,9 +13,9 @@
 				value="com.mysql.cj.jdbc.Driver" />
 			<property name="javax.persistence.jdbc.url"
 				value="jdbc:mysql://localhost:3306/bpk_tech" />
-			<property name="javax.persistence.jdbc.user" value="Affan" />
+			<property name="javax.persistence.jdbc.user" value="*****" />
 			<property name="javax.persistence.jdbc.password"
-				value="Affan@123" />
+				value="******" />
 			<property name="hibernate.show_sql" value="true" />
 
 			<property name="hibernate.hbm2ddl.auto" value="update" />
